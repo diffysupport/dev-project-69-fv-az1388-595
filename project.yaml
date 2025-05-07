@@ -1,5 +1,5 @@
 basic:
-    name: 'Kuvalis, Leffler and Lubowitz'
+    name: 'Grant Group'
     environments:
         production: 'https://google.com'
         staging: ''
